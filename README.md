@@ -27,3 +27,5 @@ Aspiring SOC Analyst with hands-on experience in log analysis, threat detection,
 
 # Note
 All reports are based on simulated SIEM logs modeled after real-world attack patterns.
+## Portfolio Purpose
+This portfolio demonstrates hands-on SOC analyst skills including threat detection, log analysis, and incident response using simulated SIEM environments.
